@@ -1,4 +1,4 @@
-# formacao4.0-compet-IA
+Atividade de Inteligência Artificial - Formação Tecnológica 4.0 - COMPET
 
 Atividade proposta pelo professora de Inteligência Artificial. Este repositório contém um projeto classificação da qualidade de vinhos utilizando técnicas de Aprendizado de Máquina. O objetivo é prever a qualidade do vinho (baixa, média ou alta) a partir de características químicas, utilizando Python, pandas, scikit-learn e uma interface interativa com Gradio.
 
